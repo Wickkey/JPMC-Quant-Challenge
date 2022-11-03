@@ -1,2 +1,3 @@
 # JPMC-Quant-Challenge
- JP Morgan Quant Challenge '22
+Winning Solution of JPMC Derivative Modelling Challenge'22
+
